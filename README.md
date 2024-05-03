@@ -1,4 +1,4 @@
-ce projet consiste a creer une application calculatrice comportant un menu principal de 4 éléments (Addition,
+Ce projet consiste a creer une application calculatrice comportant un menu principal de 4 éléments (Addition,
 Soustraction, Multiplication et Division). Chacun des menus redirige l'utilisateur vers une page
 spécifique. Peu importe le menu choisi, l'utilisateur est dirigé vers une page où il est invité à saisir
 deux valeurs et à valider en cliquant sur un bouton "Calculer", affichant ainsi le résultat.
